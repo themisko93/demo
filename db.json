@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "airdata": [
+    { "sid": 1, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 2, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 4, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 5, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 6, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 7, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 8, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 9, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 10, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 11, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 12, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "walldata": [
+    { "sid": 13, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 14, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 15, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 16, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 17, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 18, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
+  ]
 }
