@@ -12,7 +12,7 @@
     { "sid": 10, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 11, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 12, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-  ],
+  ]
   "walldata": [
     { "sid": 13, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 14, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
