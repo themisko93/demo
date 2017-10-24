@@ -1,24 +1,61 @@
 {
-  "airdata": [
-    { "sid": 1, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 2, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 4, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 5, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 6, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 7, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 8, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 9, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 10, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 11, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 12, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-  ],
-  "walldata": [
-    { "sid": 13, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 14, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 15, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 16, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 17, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
-    { "sid": 18, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-  ]
+  "airdatas": {
+    "sensor1": {
+      "sid": 1, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor2": {
+      "sid": 2, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor3": {
+      "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor4": {
+      "sid": 4, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor5": {
+      "sid": 5, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor6": {
+      "sid": 6, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor7": {
+      "sid": 7, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor8": {
+      "sid": 8, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor9": {
+      "sid": 9, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor10": {
+      "sid": 10, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor11": {
+      "sid": 11, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor12": {
+      "sid": 12, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    }
+  },
+  "walldatas": {
+    "sensor13": {
+      "sid": 13, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor14": {
+      "sid": 14, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor15": {
+      "sid": 15, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor16": {
+      "sid": 16, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor17": {
+      "sid": 17, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    },
+    "sensor18": {
+      "sid": 18, "type": "wall", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+    }
+    
+  }
 }
