@@ -1,14 +1,8 @@
 {
   "airdata": [
-    "sensor1":[
-          { "sid": 1, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-          ],
-    "sensor2":[
-           { "sid": 2, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-          ],
-    "sensor3":[
-            { "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" }
-      ],
+    { "sid": 1, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 2, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
+    { "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 4, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 5, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
     { "sid": 6, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14" },
