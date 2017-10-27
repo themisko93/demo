@@ -10,13 +10,13 @@
       "sid": 3, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
     },
     "sensor4": {
-      "sid": 4, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+      "sid": 4, "type": "atm", "avail": true, "temp": 45, "hum": 98, "timestamp": "24-05-2017Τ23:14"
     },
     "sensor5": {
-      "sid": 5, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+      "sid": 5, "type": "atm", "avail": true, "temp": 46, "hum": 99, "timestamp": "24-05-2017Τ23:14"
     },
     "sensor6": {
-      "sid": 6, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
+      "sid": 6, "type": "atm", "avail": true, "temp": 47, "hum": 99, "timestamp": "24-05-2017Τ23:14"
     },
     "sensor7": {
       "sid": 7, "type": "atm", "avail": true, "temp": 38, "hum": 99, "timestamp": "24-05-2017Τ23:14"
